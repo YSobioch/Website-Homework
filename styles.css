@@ -1,0 +1,43 @@
+body{
+    background-image: url("Backround\ Fancy.jpg");
+}
+
+.off-White{
+    background-color: rgba(244, 255, 255, 0.795);
+    text-align: center;
+}
+
+.align-left{
+    text-align: left;
+}
+
+#large-Title{
+    font-size: 40px;
+    color: aqua;
+    text-align: center;
+}
+
+.image-Boarder{
+    border-style:double;
+    border-width: 5px;
+    border-color: black;
+}
+
+.every-even li:nth-child(even){
+    background-color:rgba(172, 172, 172, 0.795)
+}
+
+.off-Grey{
+    background-color: rgba(244, 255, 255, 0.795);
+}
+
+.form-style{
+    border-style:double;
+    border-color:black;
+    border-width: 5px;
+    background-color:rgba(172, 172, 172, 0.795)
+}
+
+.styleless-list{
+    list-style-type: none;
+}
